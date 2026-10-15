@@ -10,6 +10,15 @@ Brand new **static package manager** for browser.
 
 ---
 
+## Unterstützte Node-Versionen
+
+Dieses Projekt unterstützt Node.js >=4.0.0 und <6.0.0. Die CI‑Konfiguration testet aktuell auf Node 4 und 5.
+
+Siehe ursprünglichen Commit zur CI‑Änderung: https://github.com/azizkwider-ux/spm/commit/09436df79818f7792b3363999f0794d654ef1f01
+
+
+---
+
 ## spm 从 3.9 开始将不再管理组件的生命周期, 即不再有 spmjs.io. 所以相应的逻辑全部去除. 请使用 npm 来管理组件.
 
 ## Install
